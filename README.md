@@ -7,6 +7,7 @@ The attendance is taken based off the `Discord Roles` assigned to server members
 
 *Example*:
 (In the Voice chat's text channel):
+
 `/rollcall <role>` - Provides a list of all the members of a given `Role` that _are not_ within the voice chat currently.
 
 
